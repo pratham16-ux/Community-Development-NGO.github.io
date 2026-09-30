@@ -133,7 +133,7 @@ header.site{
   padding:14px 28px;max-width:var(--maxw);margin:0 auto;
 }
 .brand{display:flex;align-items:center;gap:12px;}
-.brand img{height:44px;width:auto;border-radius:4px;}
+.brand img{height:60px;width:auto;border-radius:4px;}
 .navlinks{display:flex;gap:34px;list-style:none;margin:0;padding:0;}
 .navlinks a{
   font-weight:500;font-size:.95rem;color:var(--pine);
@@ -672,4 +672,4 @@ footer.site .foot-brand img{
 .foot-brand img{height:45px;display:block;}
 
 /* footer logo: fixed 45px height, natural width */
-footer.site .foot-brand img{height:50px!important;width:auto!important;max-width:100%;}
+footer.site .foot-brand img{height:60px!important;width:auto!important;max-width:100%;}
